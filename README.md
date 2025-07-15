@@ -23,11 +23,11 @@ This project is an **Arduino-based Line Follower Robot** that uses IR sensors to
 - Jumper wires and breadboard 
 
 ## 🛠️ Circuit Diagram
-Left IR Sensor -> Arduino A0
-Right IR Sensor -> Arduino A1
-Left Motor -> Motor Driver Output 1 & 2
-Right Motor -> Motor Driver Output 3 & 4
-Motor Driver IN1/IN2/IN3/IN4 -> Arduino D3/D4/D5/D6
+- Left IR Sensor -> Arduino A0
+- Right IR Sensor -> Arduino A1
+- Left Motor -> Motor Driver Output 1 & 2
+- Right Motor -> Motor Driver Output 3 & 4
+- Motor Driver IN1/IN2/IN3/IN4 -> Arduino D3/D4/D5/D6
 
 > You can adjust pin numbers in the code to match your setup.
 
@@ -55,8 +55,8 @@ else
     stop
 
 🧑‍💻 Author
-Soumaditya Sengupta
-soumadityasengupta@gmail.com
++ Soumaditya Sengupta
++ soumadityasengupta@gmail.com
 Feel free to connect and contribute!
 
 
