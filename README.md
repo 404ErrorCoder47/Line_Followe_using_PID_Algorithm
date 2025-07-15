@@ -56,6 +56,8 @@ else
 
 🧑‍💻 Author
 + Soumaditya Sengupta
++ Shaswata Pal
++ Sourodeep Hazra
 + soumadityasengupta@gmail.com
 Feel free to connect and contribute!
 
