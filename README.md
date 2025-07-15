@@ -56,6 +56,7 @@ else
 
 🧑‍💻 Author
 Soumaditya Sengupta
+soumadityasengupta@gmail.com
 Feel free to connect and contribute!
 
 
